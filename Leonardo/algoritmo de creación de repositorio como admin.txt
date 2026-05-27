@@ -1,0 +1,62 @@
+1.- Entrar al escritorio desde una terminal de GITBASH 
+     cd desktop ✅
+
+2.- Crear una nueva carpeta 
+      mkdir repositorioadmin ✅
+
+3.- Entrar a la carpeta creada 
+       cd respositorioadmin ✅
+
+4.- Iniciar repositorio de forma local
+       git init ✅
+
+5.- Agregar un README.md al repositorio, en este punto puede agregarse más información sobre el repositorio.✅
+      echo “ # Repositorio Admin” >> REAME.md  
+      touch REAMDE.md 
+
+6.-  Agregar el readme a la carpeta recién creada 
+       git add README.md ✅
+
+7.-  Guardar cambios dentro del repositorio ( Agregar condicional aquí)
+       git commit -m ✅
+
+ 8.- Revisar todos los cambios realizados hasta este punto del desarrollo 
+       git log –oneline✅
+
+9.- Agregar URL del repositorio remoto 
+       git remote add origin + URL ✅
+
+10.- Agregar rama principal del repositorio
+       git branch -M main ✅
+
+11.- Agregar todos los cambios al repositorio remoto
+       git push -u origin main ✅
+
+Desde GITHUB 
+12.- Crear repositorio en línea
+ 
+
+
+
+
+
+
+
+
+
+13.- Agregar un nombre al repositorio
+       respositorio Admin 
+14.- Crear el repositorio 
+       Dar click en el botón verde al final de la página web de github (Este paso parece algo ambiguo)
+15.- Invitar a los colaboradores del repositorio 
+
+16.- Agregar los correos de los colaboradores al repositorio.
+
+17.- Verificar los correos de los colaboradores. 
+
+18.- Confirmar la participación de los colaboradores en el repositorio 
+Revisar y aprobar el pull request de los colaboradores 
+
+19.- Revisar, aprobar y fusionar el Merge 
+
+20. fin 
